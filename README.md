@@ -28,5 +28,8 @@ This project analyzes rental income, expenses, properties, and tenant performanc
 ## 📊 Dashboard Preview
 ![Rental Dashboard](rental-dashboard-preview.png)
 
+## 📂 Files Included
+- Rental_Management_Project.xlsx
+
 
 
